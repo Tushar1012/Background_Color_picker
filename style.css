@@ -1,0 +1,19 @@
+body{
+    text-transform: uppercase;
+    text-align: center;
+    color: rgba(0,0,0,0.5);
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right ,red,pink);
+}
+h1{
+    font-family: sans-serif;
+    width: 100%;
+}
+h3{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 0.01em;
+    top: 15%;
+
+}
